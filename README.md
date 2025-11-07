@@ -1,5 +1,7 @@
 # 💰 Budget Buddy — Smart Budgeting for Everyone
 
+Pitch deck link https://gamma.app/docs/Budget-Buddy-6b8hv3c4xlxxg73
+
 **SDG 1: No Poverty**
 
 Budget Buddy is a Flutter-based mobile app that helps low-income families and individuals manage their finances, track expenses, and receive personalized savings tips — all in one easy-to-use platform.
